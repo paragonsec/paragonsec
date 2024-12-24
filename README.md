@@ -1,8 +1,4 @@
 <!-- Fancy banner (host your own image or use a link to an image you like) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73339470/217917836-313fdf2d-f6ab-4671-87cc-9090289b8f9a.gif" alt="Cybersecurity Banner" width="80%" />
-</p>
-
 <div align="center">
   <h2>Hey there, I'm <span style="color: #FFA500;">Quentin</span>! <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="35"/></h2>
 </div>
@@ -97,10 +93,6 @@
   <a href="https://twitter.com/paragonsec" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73339470/220067916-6db23ec1-a86c-4bd5-81fc-1bb758e6d1b1.gif" width="40%">
-</p>
 
 <p align="center">
   <strong>Thank you for stopping by!</strong>
