@@ -26,10 +26,9 @@
 
 ## About Me
 
-- \u{1F4AA} Currently working on **private cybersecurity projects** to safeguard digital assets and build advanced security tooling.
-- \u{1F680} Always **experimenting** with new frameworks and technologies.
-- \u{2728} Passionate about **open-source** and the collaboration behind it.
-- \u{1F30E} I also enjoy capturing the **world** through photography (and occasionally drones).
+- Currently working on **private projects**.
+- Always **experimenting** with new frameworks and technologies.
+- Passionate about **open-source** and the collaboration behind it.
 
 ---
 
